@@ -43,7 +43,7 @@
         "title":"Simplifying open data licences – in 2 minutes",
         "displayTitle": "Simplifying open data licences – in 2 minutes",
         "body": "ODI Policy Lead Ellen Broad explains why we need open data licences, how they help unlock the value of data and best practice in choosing the right type of licence.",
-        "instruction": "To turn subtitles on and off, click the 'cc' button at the bottom right of the video",
+        "instruction": "Kuweka na kuondoa tafsiri za mazungumzo kwa kiswahili, bofya kitufe 'cc' chini upande wa kulia wa video",
         "_setCompletionOn":"ended",
         "_source": "https://player.vimeo.com/video/129116798",
         "_media": {
@@ -81,9 +81,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"right",
-        "title":"Why license open data?",
-        "displayTitle":"Why license open data?",
-        "body":"<p>Without a licence, data is not truly open.</p><p>A licence tells anyone that they can access, use and share your data.</p><p>Unless you have a licence, data may be ‘publicly available’, but users will not have permission to access, use and share it under copyright or database laws.</p>"
+        "title":"Kwanini tunaipa leseni data wazi?",
+        "displayTitle":"Kwanini tunaipa leseni data wazi?",
+        "body":"<p>Bila leseni, data hazitakuwa wazi kiukweli.</p><p>Leseni inatoa ujumbe kwamba kila mtu anaweza kuzifikia, kuzitumia na kuzigawa data zako.</p><p>Data zinaweza 'kupatikana kwa umma', ingawa watumiaji hawatakuwa na ruhusu ya kuzifikia, kuzitumia na kuzigawa chini ya sheria za hatimiliki au hifadhi data, isipokuwa wawe na leseni.</p>"
     },
      {
         "_id": "c-25",
@@ -92,14 +92,14 @@
         "_type":"component",
         "_layout": "full",
         "_component": "dynamic-narrative",
-        "title": "Benefits of open data licensing",
-        "displayTitle": "Benefits of open data licensing",
-        "body": "Licensing gives permission to businesses, startups, governments and individuals to innovate with open data.",
-        "instruction": "<em class='desktop-instruction'>Click the forward arrow for more.</em><em class='mobile-instruction'>Select the ‘+’ sign to explore further, then swipe the image to see more.</em>",
+        "title": "Faida za utoaji leseni za data wazi",
+        "displayTitle": "Faida za utoaji leseni za data wazi",
+        "body": "Utoaji leseni unatoa ruhusu kwa wafanya biashara, makampuni anzilishi, serikali na watu binafsi kufanya ufumbuzi kwa kutumia data wazi.",
+        "instruction": "<em class='desktop-instruction'>Bofya mshale mbele kupata maelezo zaidi.</em><em class='mobile-instruction'>Chagua alama ya ‘+’ kuchunguza kwa kina, kisha pangusa taaswira kuona zaidi.</em>",
         "_items": [
             {
-                "title": "Providing certainty",
-                "body": "<p>Open data licences provide users with certainty that the data can be used and shared for a wide range of purposes.</p><p>An open data licence is an explicit permission to use the data for both commercial and non-commercial purposes.</p><p>Without a licence, users may find themselves in a legal grey area.</p>",
+                "title": "Kutoa uhakika",
+                "body": "<p>Leseni za data wazi zinawapa uhakika watumiaji kwamba data zinaweza kutumika na kugawiwa kwa madhumuni mbali mbali.</p><p>Leseni ya data wazi ni ruhusu dhahiri ya kutumia data kwa madhumuni yote ya kibiashara na yasiyo ya kibiashara.</p><p>Bila leseni, watumiaji wanaweza kujikuta kwenye mazingira yasiyoeleweka kisheria.</p>",
                 "_graphic": {
                     "src": "course/en/images/odi-2.jpg",
                     "alt": "Providing certainty",
@@ -111,8 +111,8 @@
                 "strapline": "Providing certainty"
             },
             {
-                "title": "Providing clarity",
-                "body": "<p>As of 2015, only around 46% of data in open data catalogues across the European Union is truly openly licensed.</p><p>In the EU, copyright and database laws are complex. While data might be intended to be open, a licence provides legal clarity for users.</p><p>The OpenDataMonitor platform provides information and statistics on European open data catalogues.<br /><a href='http://www.opendatamonitor.eu' target='_blank'>Take me to the OpenDataMonitor platform</a></p>",
+                "title": "Kutoa uwazi",
+                "body": "<p>Mpaka kufikia mwaka 2015, takriban asilimia 46 tu ya data kwenye katalogi za data wazi zilikuwa zimepatiwa leseni wazi kiukweli katika umoja wa Ulaya.</p><p>Katika Umoja wa Ulaya, sheria za hatimiliki na hifadhi data zina utata. Wakati data inaweza kuwa imekusudiwa kuwa wazi, leseni inatoa uwazi wa kisheria kwa watumiaji.</p><p>Jukwaa la OpenDataMonitor linatoa taarifa na takwimu za katalogi za data wazi za Ulaya.<br /><a href='http://www.opendatamonitor.eu' target='_blank'>Nipeleke kwenye jukwaa la OpenDataMonitor</a></p>",
 		        "_graphic": {
                     "src": "course/en/images/odi-3.jpg",
                     "alt": "Providing clarity",
@@ -124,8 +124,8 @@
                 "strapline": "Providing clarity"
             },
             {
-                "title": "Enabling innovation",
-                "body": "<p>Open data licences enable experimentation, exploration and innovative uses of open data in new products and services.</p><p>For example, Transport for London’s transport data is openly licensed. It has underpinned a wide range of public transport journey planners, available as apps on smartphones and mobile devices.<br /><a href='https://tfl.gov.uk/info-for/open-data-users/' target='_blank'>Take me to Transport for London</a></p>",
+                "title": "Kuwezesha uvumbuzi",
+                "body": "<p>Leseni za data wazi zinawezesha matumizi ya majaribio, uchunguzi na uvumbuzi wa data wazi katika huduma na bidhaa mpya.</p><p>Kwa mfano, data za usafiri wa mji wa London zimepewa leseni wazi. Maafisa mipango mbalimbali wa usafiri wa umma wameimarishwa na leseni hizo, zinazopatikana kama programu za simu za mkononi.<br /><a href='https://tfl.gov.uk/info-for/open-data-users/' target='_blank'>Nipeleke kwenye Usafiri wa kwenda London</a></p>",
                 "_graphic": {
                     "src": "course/en/images/odi-4.jpg",
                     "alt": "Enabling innovation",
@@ -170,9 +170,9 @@
         "_component":"text",
         "_classes":"",
         "_layout":"left",
-        "title":"How to locate a licence",
+        "title":"Jinsi gani ya kuonesha mahali penye leseni",
         "displayTitle":"How to locate a licence",
-        "body":"<p>Open data publishers should provide easy access to the licence for all datasets that are available to access, use and share.</p><p>The location and layout of licence information may vary according to jurisdiction, industry and individual style.</p><p>Best practice suggests that licences should be easy to find and read. In the next section, we show you how to find a licence.</p>",
+        "body":"<p>Wachapishaji wa data wazi lazima waweke urahisi wa kuifikia leseni kwaajili ya setidata zote ambazo zinaweza kufikiwa, kutumiwa na kugaiwa.</p><p>Mahali na mpangilio wa taarifa za leseni unaweza kubadilika kulingana na mtindo binafsi, tasnia na mamlaka.</p><p>Njia bora inapendekeza kwamba lazima iwe rahisi kutafuta na kusoma leseni. Katika kifungu kinachofuata, tunakuonesha jinsi ya kutafuta leseni.</p>",
         "instruction":"",
         "_pageLevelProgress": {
             "_isEnabled": true
